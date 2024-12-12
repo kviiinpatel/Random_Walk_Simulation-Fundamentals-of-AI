@@ -3,7 +3,7 @@
 Kvin Patel KU2407U553
 Jeny Patel KU2407U552
 Maharshi Patel KU2407U554
-Harnish Patel KU2407U551
+Manan Trambadiya KU2407U542
 # Objectiveof theProject
 1. Understanding Stochastic Processes:
 -To model the behavior of systems influenced by random factors.
